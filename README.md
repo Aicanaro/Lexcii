@@ -29,6 +29,8 @@
 
 
 2 подгруппа)
+- Понедельник:
 
+  Отечественная история "Семинар №3"
 ### Разное. Заметки.
 - [Ссылка на документацию синтаксиса записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
