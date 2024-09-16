@@ -31,7 +31,7 @@
 2 подгруппа)
 - Понедельник:
 
-  [Отечественная история](https://newlms.magtu.ru/course/view.php?id=93350) "Семинар № 3"
+  [Отечественная история](https://newlms.magtu.ru/course/section.php?id=2063234) "Семинар № 3"
 
 - Вторник:
 
