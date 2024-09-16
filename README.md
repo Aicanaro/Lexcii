@@ -1,4 +1,4 @@
-# Списки дз
+# Доска Д/З
 
 > [!NOTE]
 > Смещение недель каждую субботу. В скобках указан дедлайн. Если скобок напротив задачи нет, то скорее нет и дедлайна.
@@ -31,6 +31,8 @@
 2 подгруппа)
 - Понедельник:
 
-  Отечественная история "Семинар №3"
+  [Отечественная история](https://newlms.magtu.ru/course/view.php?id=93350) "Семинар № 3"
+
 ### Разное. Заметки.
+
 - [Ссылка на документацию синтаксиса записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
