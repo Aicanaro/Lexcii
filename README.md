@@ -33,6 +33,10 @@
 
   [Отечественная история](https://newlms.magtu.ru/course/view.php?id=93350) "Семинар № 3"
 
+- Вторник:
+
+  [Прикладная математика](https://newlms.magtu.ru/mod/assign/view.php?id=1605526) "Практика № 4. Векторные пространства." (вторник, 24 сентября 2024, 10:10)
+  
 ### Разное. Заметки.
 
 - [Ссылка на документацию синтаксиса записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
