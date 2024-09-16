@@ -36,3 +36,4 @@
 ### Разное. Заметки.
 
 - [Ссылка на документацию синтаксиса записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
+- [Написать реферат для курса "Личностно-профессиональное саморазвитие"](https://newlms.magtu.ru/course/view.php?id=83731)
