@@ -41,3 +41,4 @@
 
 - [Ссылка на документацию синтаксиса записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
 - [Написать реферат для курса "Личностно-профессиональное саморазвитие"](https://newlms.magtu.ru/course/view.php?id=83731) до следующего занятия (30.09.24)
+- Лабораторные по программированию 3-8. Сдать до 12 января.
