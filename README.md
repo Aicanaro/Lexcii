@@ -47,6 +47,6 @@
 
 ### Разное. Заметки.
 
-- [Ссылка на документацию синтаксиса записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
+- [Ссылка на документацию синтаксиса записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) для README файла репозитория
 - [Написать реферат для курса "Личностно-профессиональное саморазвитие"](https://newlms.magtu.ru/course/view.php?id=83731) до следующего занятия (30.09.24)
 - 2 ПОДГРУППА. [Лабораторные по программированию №3-8](https://newlms.magtu.ru/course/section.php?id=669747). Сдать до 12 января (Что решать? Задачи лаб №3-7: *вариант и вариант+12*; Задачи лабы №8: *вариант и ++вариант*. Какой мой вариант? Александр Николаевич проговаривал на одном из уроков).
