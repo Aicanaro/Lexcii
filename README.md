@@ -45,6 +45,17 @@
 - Пятница:
 
 
+## Неделя 30.09-06.10
+
+1 подгруппа)
+
+2 подгруппа)
+- Понедельник:
+- Вторник: 
+- Среда:
+- Четверг:
+- Пятница:
+
 ### Разное. Заметки.
 
 - [Ссылка на документацию синтаксиса записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) для README файла репозитория
